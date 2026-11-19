@@ -48,7 +48,8 @@ def card(x, y, w, h, tag, title, body, accent=BLUE, title_size=22):
     text(x+24, y+16, tag.upper(), 13, accent, "bold")
     lines = wrap(title, font(title_size, "bold"), w-48)
     for i, line in enumerate(lines[:2]): text(x+24, y+40+i*(title_size+3), line, title_size, INK, "bold")
-    by = y+44+len(lines[:2])*(title_size+3)
+    # Leave a clear visual pause between the headline and its summary.
+    by = y+50+len(lines[:2])*(title_size+3)
     paragraph(x+24, by, body, 16, w-48, MUTED, 4, 3)
 
 # Masthead
