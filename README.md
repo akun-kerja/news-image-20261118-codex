@@ -1,5 +1,9 @@
 # World News — 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/akun-kerja/news-image-20261118-codex/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/akun-kerja/news-image-20261118-codex/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 An original, text-and-shapes newspaper front page summarizing six verified stories from Wednesday, 18 November 2026. The APEC summit in Shenzhen leads the page; five compact dispatches cover the Gulf, Ukraine, US politics, technology, health, and weather.
 
 ## Stories
